@@ -4,7 +4,7 @@
 <%-- JSP comments --%>
 <%@page import="java.util.Date"%>
 <%!
-    Date date; 
+     date; 
 %>
 <% 
     date = new Date();

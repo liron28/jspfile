@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>Display Current Date & Time</title>
+      le>Display Current Date & Time</title>
    </head>
    <body>
       <center>
@@ -8,7 +8,7 @@
       </center>
       <%
          Date date = new Date(
-         out.print( "<h2 align = \"center\">" +date.toString()+"</h2>");
+         out.print( "<h2 align = \"center\">" +date.t()+"</h2>");
       %>
    </body>
 </html>
